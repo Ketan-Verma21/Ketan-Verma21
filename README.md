@@ -14,9 +14,10 @@
    <a href="https://www.instagram.com/ketan_verma1511/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://codeforces.com/profile/ketanverma1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ketanverma1511"  /></a>
-  <a href="https://leetcode.com/ketanverma1511/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ketanverma1511" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/ketanver3277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ketanver3277" /></a>
+   <a href="https://codeforces.com/profile/ketanverma1511" target="blank"><img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=Codeforces&logoColor=black" alt="Codeforces Badge"  /></a>
+  <a href="https://leetcode.com/ketanverma1511/" target="blank"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=Leetcode&logoColor=black" alt="Leetcode Badge" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ketanver3277" target="blank"><img src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="Gfg Badge" /></a>
+ <a href="https://www.codingninjas.com/studio/profile/294ae999-7b2e-472c-9c13-3aeb8d6ac85f" target="blank"><img src="https://img.shields.io/badge/GFG-orange?style=for-the-badge&logo=CodingNinjas&logoColor=black" alt="Coding Ninja Badge" /></a>
 </div>
 
 ### Languages and Tools:
@@ -28,4 +29,3 @@
 
 
 <br>
-⭐️ From [Ketan Verma](https://github.com/Ketan-Verma21)
