@@ -14,13 +14,13 @@
    <a href="https://www.instagram.com/ketan_verma1511/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://codeforces.com/profile/ketanverma1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ketanverma1511" height="30" width="40" /></a>
-  <a href="https://leetcode.com/ketanverma1511/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ketanverma1511" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/ketanver3277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ketanver3277" height="30" width="40" /></a>
+   <a href="https://codeforces.com/profile/ketanverma1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ketanverma1511"  /></a>
+  <a href="https://leetcode.com/ketanverma1511/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ketanverma1511" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ketanver3277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ketanver3277" /></a>
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,rive)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,idea)](https://skillicons.dev)
 
 ![Ketan Verma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketan-Verma21&show_icons=true&theme=dark)
 
