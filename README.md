@@ -21,7 +21,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,idea,C,C++,python,java,kotlin,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,idea,c,c++,python,java,kotlin,nodejs)](https://skillicons.dev)
 
 ![Ketan Verma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketan-Verma21&show_icons=true&theme=dark)
 
