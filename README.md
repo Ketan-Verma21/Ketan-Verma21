@@ -17,7 +17,7 @@
    <a href="https://codeforces.com/profile/ketanverma1511" target="blank"><img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=Codeforces&logoColor=black" alt="Codeforces Badge"  /></a>
   <a href="https://leetcode.com/ketanverma1511/" target="blank"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=Leetcode&logoColor=black" alt="Leetcode Badge" /></a>
   <a href="https://auth.geeksforgeeks.org/user/ketanver3277" target="blank"><img src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="Gfg Badge" /></a>
- <a href="https://www.codingninjas.com/studio/profile/294ae999-7b2e-472c-9c13-3aeb8d6ac85f" target="blank"><img src="https://img.shields.io/badge/GFG-orange?style=for-the-badge&logo=CodingNinjas&logoColor=black" alt="Coding Ninja Badge" /></a>
+ <a href="https://www.codingninjas.com/studio/profile/294ae999-7b2e-472c-9c13-3aeb8d6ac85f" target="blank"><img src="https://img.shields.io/badge/CodingNinja-orange?style=for-the-badge&logo=CodingNinjas&logoColor=black" alt="Coding Ninja Badge" /></a>
 </div>
 
 ### Languages and Tools:
