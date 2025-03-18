@@ -1,7 +1,6 @@
  <h1 align="center">Hi 👋, I'm Ketan Verma</h1>
 
-- 🔭 I’m currently working on Flutter and Machine Learning
-- 🌱 I’m currently learning Backend, Deep Learning
+- 🔭 I’m currently working on Flutter 
 - 💬 Ask me anything about Flutter, Node.js, C++, Python, Java
 - 📫 How to reach me: ketanverma1511@gmail.com
 - ⚡ Fun fact: Music Enthusiast, Sports
