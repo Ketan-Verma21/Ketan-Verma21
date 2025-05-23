@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ketan Verma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F79F1F&center=true&vCenter=true&width=435&lines=Flutter+Developer;Backend+Enthusiast;Node.js+%7C+C%2B%2B+%7C+Python+%7C+Java;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F79F1F&center=true&vCenter=true&width=435&lines=Flutter+Developer;Backend+Developer;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
