@@ -1,11 +1,12 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#f79f1f;">Ketan Verma</span></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F79F1F&center=true&vCenter=true&width=435&lines=Flutter+Dev+%F0%9F%93%B1;Backend+Builder+%F0%9F%8E%A8;Tech+Adventurer+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A;Debugging+My+Life+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F79F1F&center=true&vCenter=true&width=435&lines=Flutter+Dev+%F0%9F%93%B1;Backend+Builder+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
-```bash
 💻 Terminal Login:
+
+```bash
 User: ketan_verma1511  
 Host: github.com  
 Status: Building cool sh*t...
@@ -13,7 +14,6 @@ Status: Building cool sh*t...
 
 ## 🔭 About Me
 name: Ketan Verma
-status: Final Year @ IIT (ISM) Dhanbad
 code: [Flutter, Node.js, Python, Java, C++, Docker]
 learning: [System Design, WebSockets, AI Agents]
 fun_fact: "I debug with music on loop 🎧"
