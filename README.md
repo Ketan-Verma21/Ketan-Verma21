@@ -14,8 +14,8 @@ Status: Building cool sh*t...
 
 ## 🔭 About Me
 name: Ketan Verma
-code: [Flutter, Node.js, Python, Java, C++, Docker]
-learning: [System Design, WebSockets, AI Agents]
+code: [Flutter, Node.js, Python, Java, C++]
+learning: [WebSockets, AI Agents]
 fun_fact: "I debug with music on loop 🎧"
 
 | Mobile       | Backend         | DevOps & Tools | Others        |
@@ -23,6 +23,8 @@ fun_fact: "I debug with music on loop 🎧"
 | `Flutter` 🐦 | `Node.js` 🚀    | `Docker` 🐳    | `Firebase` 🔥 |
 | `Kotlin` 🤖  | `Express.js` 🌐 | `GitHub` 🐙    | `Figma` 🎨    |
 | `Dart` 💙    | `MongoDB` 🍃    | `Postman` 📬   | `MySQL` 💾    |
+
+
 
 📊 GitHub Activity
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ketan-Verma21&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan-Verma21&layout=compact&theme=tokyonight&hide_border=true" /> </p>
@@ -53,6 +55,7 @@ Online compiler with Docker-based runtime for multiple languages.
 
 
 🧠 Currently Learning
+
 Full-stack engineering with Flutter + Node.js
 
 Scheduling logic + natural language parsing
