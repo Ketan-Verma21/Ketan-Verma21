@@ -7,17 +7,18 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Flutter**  
-- 💬 Ask me anything about **Flutter, Node.js, C++, Python, Java**  
-- 📫 Reach me at: **ketanverma1511@gmail.com**  
-- ⚡ Fun fact: I'm a **music enthusiast** and love **sports**  
+- 👨‍💻 Final year B.Tech at IIT (ISM) Dhanbad
+- 🔭 Currently working on a **smart AI scheduling assistant** using **Flutter + Node.js**
+- 💬 Ask me about **Flutter, Node.js, C++, Python, Java**
+- ✉️ Reach me at **ketanverma1511@gmail.com**
+- ⚡ Fun fact: I vibe to **Prateek Kuhad**, **Arctic Monkeys**, and **Anime OSTs**
 
 ---
 
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://github.com/Ketan-Verma21" target="_blank">
-    <img src="https://img.shields.io/badge/Github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/ketan_verma1511/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -40,12 +41,12 @@
 
 ## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,github,git,postman,figma,idea,c,cpp,python,java,kotlin,nodejs,androidstudio,discord,express,firebase,js,mongodb,vscode,mysql" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,js,ts,python,cpp,java,kotlin,mongodb,mysql,firebase,postman,git,github,figma,vscode,androidstudio,idea" alt="Skills" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ketan-Verma21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -59,23 +60,24 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ketan-Verma21&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ketan-Verma21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🧠 Currently Learning
-- Full-stack development with **Flutter + Node.js**
-- Building my own **AI scheduling companion**
-- Exploring **Docker**, **WebSockets**, and **System Design**
+- 🔧 Full-stack with **Flutter + Node.js**
+- 🧠 Building my own **AI scheduling assistant**
+- ⚙️ Exploring **WebSockets**, **Docker**, and **System Design**
 
 ---
 
 ## 🎵 Fun Zone
+
 > _“Code. Music. Coffee. Repeat.”_
 
 🎧 Currently vibing to:
-- Arctic Monkeys, Prateek Kuhad, and Anime OSTs
+- Arctic Monkeys, Prateek Kuhad, Anime OSTs
 
 ⚽ Weekend goals:
 - Hack on side projects  
@@ -83,4 +85,4 @@
 
 ---
 
-<p align="center">Thanks for visiting my profile 💙<br/>Let's build something awesome together!</p>
+<p align="center">Thanks for stopping by 💙<br/>Let’s build something awesome together!</p>
