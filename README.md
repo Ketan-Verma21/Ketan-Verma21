@@ -1,88 +1,62 @@
-<h1 align="center">Hi 👋, I'm Ketan Verma</h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#f79f1f;">Ketan Verma</span></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F79F1F&center=true&vCenter=true&width=435&lines=Flutter+Developer;Backend+Developer;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About Me
-- 👨‍💻 Final year B.Tech at IIT (ISM) Dhanbad
-- 🔭 Currently working on a **smart AI scheduling assistant** using **Flutter + Node.js**
-- 💬 Ask me about **Flutter, Node.js, C++, Python, Java**
-- ✉️ Reach me at **ketanverma1511@gmail.com**
-- ⚡ Fun fact: I vibe to **Prateek Kuhad**, **Arctic Monkeys**, and **Anime OSTs**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F79F1F&center=true&vCenter=true&width=435&lines=Flutter+Dev+%F0%9F%93%B1;Backend+Builder+%F0%9F%8E%A8;Tech+Adventurer+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A;Debugging+My+Life+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://github.com/Ketan-Verma21" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/ketan_verma1511/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/ketanverma1511" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/ketanverma1511/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/ketanver3277" target="_blank">
-    <img src="https://img.shields.io/badge/GFG-%2313AA52.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://www.codingninjas.com/studio/profile/294ae999-7b2e-472c-9c13-3aeb8d6ac85f" target="_blank">
-    <img src="https://img.shields.io/badge/CodingNinjas-orange?style=for-the-badge&logo=codingninjas&logoColor=black"/>
-  </a>
-</p>
+💻 Terminal Login:
+User: ketan_verma1511  
+Host: github.com  
+Status: Building cool sh*t...
 
 ---
 
-## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,js,ts,python,cpp,java,kotlin,mongodb,mysql,firebase,postman,git,github,figma,vscode,androidstudio,idea" alt="Skills" />
-</p>
+## 🔭 About Me
+name: Ketan Verma
+status: Final Year @ IIT (ISM) Dhanbad
+code: [Flutter, Node.js, Python, Java, C++, Docker]
+learning: [System Design, WebSockets, AI Agents]
+fun_fact: "I debug with music on loop 🎧"
 
----
+| Mobile       | Backend         | DevOps & Tools | Others        |
+| ------------ | --------------- | -------------- | ------------- |
+| `Flutter` 🐦 | `Node.js` 🚀    | `Docker` 🐳    | `Firebase` 🔥 |
+| `Kotlin` 🤖  | `Express.js` 🌐 | `GitHub` 🐙    | `Figma` 🎨    |
+| `Dart` 💙    | `MongoDB` 🍃    | `Postman` 📬   | `MySQL` 💾    |
 
-## 📈 GitHub Stats
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ketan-Verma21&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan-Verma21&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ketan-Verma21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ketan-Verma21&theme=tokyonight&hide_border=true" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan-Verma21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+🚀 Featured Projects
+🧠 AI Scheduling Assistant
+A productivity companion that syncs with Google Calendar and suggests the best time slots using natural language input.
 
----
+💬 Type Racer
+Real-time multiplayer typing game built with Flutter & Socket.IO.
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ketan-Verma21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+🧪 Code Practice Platform
+Online compiler with Docker-based runtime for multiple languages.
 
----
+📫 Let's Connect
+<p align="center"> <a href="https://github.com/Ketan-Verma21"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.instagram.com/ketan_verma1511/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://codeforces.com/profile/ketanverma1511"> <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"/> </a> <a href="https://leetcode.com/ketanverma1511/"> <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://auth.geeksforgeeks.org/user/ketanver3277"> <img src="https://img.shields.io/badge/GFG-%2313AA52.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a> <a href="https://www.codingninjas.com/studio/profile/294ae999-7b2e-472c-9c13-3aeb8d6ac85f"> <img src="https://img.shields.io/badge/CodingNinjas-orange?style=for-the-badge&logo=codingninjas&logoColor=black"/> </a> </p>
+🧠 Currently Learning
+Full-stack engineering with Flutter + Node.js
 
-## 🧠 Currently Learning
-- 🔧 Full-stack with **Flutter + Node.js**
-- 🧠 Building my own **AI scheduling assistant**
-- ⚙️ Exploring **WebSockets**, **Docker**, and **System Design**
+Scheduling logic + natural language parsing
 
----
+DevOps workflows for production-ready apps
 
-## 🎵 Fun Zone
+🎵 Fun Zone
 
-> _“Code. Music. Coffee. Repeat.”_
+"Code. Music. Coffee. Repeat."
+🎧 Currently vibing to: Arctic Monkeys, Prateek Kuhad, Anime OSTs
+⚽ Weekend goals: Play football, hack on side projects
 
-🎧 Currently vibing to:
-- Arctic Monkeys, Prateek Kuhad, Anime OSTs
-
-⚽ Weekend goals:
-- Hack on side projects  
-- Play football or hit the court  
-
----
-
-<p align="center">Thanks for stopping by 💙<br/>Let’s build something awesome together!</p>
+📜 Quote of the Day
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
+<p align="center"> 🌀 Thanks for scrolling! Let’s build something legendary 💙 </p> ```
