@@ -31,17 +31,17 @@ fun_fact: "I debug with music on loop 🎧"
 
 
 
-📊 GitHub Activity
+## 📊 GitHub Activity
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ketan-Verma21&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan-Verma21&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 
 
-🔥 GitHub Streak
+## 🔥 GitHub Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ketan-Verma21&theme=tokyonight&hide_border=true" /> </p>
 
 
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 🧠 AI Scheduling Assistant
 A productivity companion that syncs with Google Calendar and suggests the best time slots using natural language input.
@@ -54,12 +54,12 @@ Online compiler with Docker-based runtime for multiple languages.
 
 
 
-📫 Let's Connect
+## 📫 Let's Connect
 <p align="center"> <a href="https://github.com/Ketan-Verma21"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.instagram.com/ketan_verma1511/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://codeforces.com/profile/ketanverma1511"> <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"/> </a> <a href="https://leetcode.com/ketanverma1511/"> <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://auth.geeksforgeeks.org/user/ketanver3277"> <img src="https://img.shields.io/badge/GFG-%2313AA52.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a> <a href="https://www.codingninjas.com/studio/profile/294ae999-7b2e-472c-9c13-3aeb8d6ac85f"> <img src="https://img.shields.io/badge/CodingNinjas-orange?style=for-the-badge&logo=codingninjas&logoColor=black"/> </a> </p>
 
 
 
-🧠 Currently Learning
+## 🧠 Currently Learning
 
 Full-stack engineering with Flutter + Node.js
 
@@ -69,14 +69,17 @@ DevOps workflows for production-ready apps
 
 
 
-🎵 Fun Zone
-
+## 🎵 Fun Zone
+---
 "Code. Music. Coffee. Repeat."
+---
+
 🎧 Currently vibing to: Arctic Monkeys, Prateek Kuhad, Anime OSTs
+
 ⚽ Weekend goals: Play football, hack on side projects
 
 
 
-📜 Quote of the Day
+## 📜 Quote of the Day
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
 <p align="center"> 🌀 Thanks for scrolling! Let’s build something legendary 💙 </p> ```
