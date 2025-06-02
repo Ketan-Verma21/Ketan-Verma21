@@ -13,10 +13,15 @@ Status: Building cool sh*t...
 ```
 
 ## 🔭 About Me
+
 name: Ketan Verma
+
 code: [Flutter, Node.js, Python, Java, C++]
+
 learning: [WebSockets, AI Agents]
+
 fun_fact: "I debug with music on loop 🎧"
+
 
 | Mobile       | Backend         | DevOps & Tools | Others        |
 | ------------ | --------------- | -------------- | ------------- |
